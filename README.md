@@ -7,12 +7,12 @@ YouTube API project using the Scorpio Sun Scorpio Moon YouTube Channel
 
 
 
-# The Data Source
+# Data Source
 
 The data comes from Scorpio Sun Scoprio Moon's YouTube channel via YouTube's API. The YouTube channel is here: https://www.youtube.com/@ScorpioSunScorpioMoon
 
 
-# The Data
+# Data
 
 Channel statistics including video_id, channelTitle, title, description (video description), tags, publishedAt, viewCount, likeCount, favoriteCount, duration, definition (standard definition, high definition etc.), and caption (true/false). 
 
